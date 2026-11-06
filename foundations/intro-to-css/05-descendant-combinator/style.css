@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+/* descendant combinators */
+
+.container .text {
+    background-color: yellow;
+    
+}
